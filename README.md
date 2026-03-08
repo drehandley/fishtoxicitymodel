@@ -82,3 +82,7 @@ a model. I also learned that a simple linear regression
 model might not always capture the full relationship 
 between features and the target variable.
 
+## Further Research
+If I were to continue working on this project I would:
+- Try more advanced models like Ridge and Lasso regression
+- Collect more data to improve model performance
